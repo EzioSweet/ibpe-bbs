@@ -8,6 +8,6 @@
   "dependencies": {
   },
   "devDependencies": {
-    "nx": "16.4.0"
+    "nx": "^16.4.0"
   }
 }
